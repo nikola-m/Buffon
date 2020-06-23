@@ -6,7 +6,7 @@ Description:
 
 We have two purposes here:
 
-First thing is to have a Monte Carlo simulation example in Python. We implement Buffon's experiment where one estimates number $\pi$ by trowing a needle on a pattern made of parallel lines. Monte Carlo simulation evaluates an integral that appears in the process, by a numerical experiment.
+First thing is to have a Monte Carlo simulation example in Python. We implement Buffon's experiment where one estimates number $$\pi$$ by trowing a needle on a pattern made of parallel lines. Monte Carlo simulation evaluates an integral that appears in the process, by a numerical experiment.
 
 The other thing we want to show is how to manipulate Postscript trough python programs, and create PS documents interactively.
 A Post Script document made here is tailored specifically to plot results of Buffon needle experiment.
