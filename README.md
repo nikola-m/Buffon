@@ -28,3 +28,5 @@ The result is a Postscript document 'buffon-experiment-fig'. You may convert it 
 ps2pdf buffon-experiment-fig.ps
 ```
 
+![The result of an experiment with 2000 needles/](https://github.com/nikola-m/Buffon/blob/master/buffon-experiment-fig.jpg)
+
